@@ -12,7 +12,7 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
         int i;
         for (i = 0; i < nums.size();i++) {
-            
+            //this is my firs temprora
         }
     }
 };
